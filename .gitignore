@@ -1,0 +1,28 @@
+# Fichiers générés par Composer
+/vendor/
+
+# Caches et logs
+/.cache/
+/logs/
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+*.swp
+*.swo
+*.idea/
+.vscode/
+
+# Tests et builds
+/tests/output/
+
+# Fichiers temporaires
+*.tmp
+*.log
+*.lock
+*.bak
+
+# Composer lock file (si tu ne veux pas versionner le lock)
+# /composer.lock
